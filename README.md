@@ -1,3 +1,7 @@
 ## About me
 
 I'm a sixteen years old enthusiast in formal language theory, type theory, programming languages & paradigms, and language processing applications, living in Kazakhstan.
+
+Also an active open-source contributor & publicist at [Habr].
+
+[Habr]: https://habr.com/en/users/hirrolot/
