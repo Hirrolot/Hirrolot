@@ -1,6 +1,6 @@
 ## About me
 
-I'm a sixteen years old enthusiast in formal language theory, type theory, programming languages & paradigms, and language processing applications, living in Kazakhstan.
+I'm a sixteen years old enthusiast in formal linguistics, type theory, programming languages & paradigms, and language processing applications, living in Kazakhstan.
 
 Also an active open-source contributor & publicist at [Habr].
 
