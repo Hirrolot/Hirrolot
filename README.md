@@ -1,6 +1,6 @@
 ## About me
 
-I'm a sixteen years old enthusiast in formal linguistics, type theory, programming languages & paradigms, and language processing applications.
+I'm a sixteen years old enthusiast in formal linguistics, type theory, programming languages and paradigms.
 
 Also an active open-source contributor & publicist at [Habr].
 
