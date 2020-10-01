@@ -1,6 +1,5 @@
 [![Hirrolot's statistics](https://github-readme-stats.vercel.app/api?username=Hirrolot&show_icons=true&theme=onedark)](#)
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hirrolot)](#)
-[![Wakatime statistics](https://github-readme-stats.vercel.app/api/wakatime?username=Hirrolot)](#)
 
 ## About me
 
