@@ -1,3 +1,5 @@
+[![Hirrolot's statistics](https://github-readme-stats.vercel.app/api?username=Hirrolot&show_icons=true&theme=onedark)](https://github.com/Hirrolot)
+
 ## About me
 
 I'm a 16 y/o publicist at [Habr], active open-source contributor, and enthusiast in:
