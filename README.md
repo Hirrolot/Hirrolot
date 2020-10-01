@@ -19,6 +19,8 @@ I feel very comfortable with Rust and C, have some experience with Java, [Idris]
 - [koshmar-pp], a metalanguage and a set of macros bringing the power of full-scale metaprogramming to plain C.
 - [teloxide], an elegant framework for writing [Telegram] bots in Rust.
 
+## More
+
 Besides programming, I enjoy swimming, listening to heavy metal, drinking cofee and green tea, strolling in the nature, improving my natural language skills, and chatting in [Telegram].
 
 [Habr]: https://habr.com/en/users/hirrolot/
