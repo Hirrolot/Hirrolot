@@ -2,24 +2,18 @@
 
 ## About me
 
-I'm a 16 y/o software engineer, publicist at [Habr], and an active open-source contributor.
-
-## Interests
+I'm a 16 y/o software engineer, publicist at [Habr], and an active open-source contributor, primarily concerned about:
 
  - [type theory],
  - programming languages and their paradigms,
  - language-processing applications: compilers, interpreters, et cetera.
 
-## Programming language skills
+I feel very comfortable with both Rust and C, have some experience with Java, [Idris], and currently learning Common Lisp.
 
-I feel very comfortable with Rust and C, have some experience with Java, [Idris], and currently learning Common Lisp.
-
-## Currently I am working on:
+Currently I am working on:
 
 - [koshmar-pp], a metalanguage and a set of macros bringing the power of full-scale metaprogramming to plain C.
 - [teloxide], an elegant framework for writing [Telegram] bots in Rust.
-
-## More
 
 Besides programming, I enjoy swimming, listening to heavy metal, drinking cofee and green tea, strolling in the nature, improving my natural language skills, and chatting in [Telegram].
 
