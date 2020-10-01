@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm a 16 y/o software engineer, publicist at [Habr], active open-source contributor, and enthusiast in:
+I'm a 16 y/o software engineer, publicist at [Habr], active open-source contributor, primarily concerned about:
 
  - [type theory],
  - programming languages and their paradigms,
