@@ -8,7 +8,12 @@ I'm a 16 y/o software engineer, publicist at [Habr], and an active open-source c
  - programming languages and their paradigms,
  - language-processing applications: compilers, interpreters, et cetera.
 
-I feel very comfortable with both Rust and C, have some experience with Java, [Idris], and currently learning Common Lisp.
+| Programming Language | Skill |
+|----------|----------|
+| Rust | 9/10 |
+| C | 9/10 |
+| Java | 4/10 |
+| Idris | 5/10 |
 
 Besides programming, I enjoy swimming, listening to heavy metal, drinking cofee and green tea, strolling in the nature, improving my natural language skills, and chatting in [Telegram].
 
