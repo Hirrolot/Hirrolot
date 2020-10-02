@@ -8,7 +8,7 @@ I'm a 16 y/o software engineer, publicist at [Habr], and an active open-source c
  - programming languages and their paradigms,
  - language-processing applications: compilers, interpreters, et cetera.
 
-| Programming Language | Skill |
+| Programming language | Skill |
 |----------|----------|
 | Rust | 9/10 |
 | C | 9/10 |
