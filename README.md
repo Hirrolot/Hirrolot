@@ -11,7 +11,7 @@ I'm a 16 y/o software engineer, publicist at [Habr], and an active open-source c
 | Programming language | Skill |
 |----------|----------|
 | Rust | 9/10 |
-| C | 9/10 |
+| C | 10/10 |
 | Java | 4/10 |
 | Idris | 5/10 |
 
