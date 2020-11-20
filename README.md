@@ -7,7 +7,7 @@ I'm a 16 y/o programmer primarily concerned about everything related to programm
 | Programming language | Skill |
 |----------|----------|
 | Rust | 9/10 |
-| C | Yes |
+| C (ANSI/99/11) | Yes |
 | Idris | 5/10 |
 | Java | 4/10 |
 | Golang | 3/10 |
