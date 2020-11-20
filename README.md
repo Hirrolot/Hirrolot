@@ -2,23 +2,16 @@
 
 ## About me
 
-I'm a 16 y/o software engineer, publicist at [Habr], and an active open-source contributor, primarily concerned about:
-
- - [type theory],
- - programming languages and their paradigms,
- - language-processing applications: compilers, interpreters, et cetera.
+I'm a 16 y/o programmer primarily concerned about everything related to programming languages: type theory, compilers, interpreters, paradigms, et cetera.
 
 | Programming language | Skill |
 |----------|----------|
 | Rust | 9/10 |
 | C | Yes |
-| Java | 4/10 |
 | Idris | 5/10 |
+| Java | 4/10 |
+| Golang | 3/10 |
 
-Besides programming, I enjoy swimming, listening to heavy metal, drinking cofee and green tea, strolling in the nature, improving my natural language skills, and chatting in [Telegram].
+Besides programming, I enjoy swimming, listening to music (mostly black/heavy metal, rock and some pop songs), drinking cofee and green tea, strolling in the nature, improving my natural language skills, and chatting in Telegram.
 
 [Habr]: https://habr.com/en/users/hirrolot/
-[type theory]: https://en.wikipedia.org/wiki/Type_theory
-[Idris]: https://www.idris-lang.org/
-
-[Telegram]: https://telegram.org/
