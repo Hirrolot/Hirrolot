@@ -13,6 +13,6 @@ I'm a 16 y/o programmer primarily concerned about programming languages and rela
 | Golang | 3/10 |
 | Python | 3/10 |
 
-Besides programming, I enjoy swimming, listening to music (mostly black/heavy metal, rock and some pop songs), drinking cofee and green tea, strolling in the nature, improving my natural language skills, and chatting in Telegram.
+Besides programming, I enjoy swimming, listening to music (black/heavy metal, classics, rock), playing the piano, improving my natural language skills, and chatting in Telegram.
 
 [Habr]: https://habr.com/en/users/hirrolot/
