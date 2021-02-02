@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm a 16 y/o programmer primarily concerned about programming languages, paradigms, type theory, compilers/interpreters, etc. I sometimes write articles at [Habr].
+I'm a 16 y/o programmer primarily concerned about programming languages, paradigms, type theory, compilers/interpreters, and related stuff. I sometimes write articles at [Habr].
 
 | Programming language | Skill |
 |----------|----------|
