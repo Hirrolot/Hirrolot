@@ -14,7 +14,5 @@ I'm a 16 y/o programmer primarily concerned about programming languages, paradig
 | Golang | 3/10 |
 | Python | 3/10 |
 
-Besides programming, I enjoy swimming, listening to music (black/heavy metal, classics, rock), playing the piano, improving my natural language skills, and chatting in Telegram.
-
 [Medium]: https://hirrolot.medium.com
 [Habr]: https://habr.com/en/users/hirrolot/
