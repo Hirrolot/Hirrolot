@@ -1,9 +1,7 @@
-[![Hirrolot's statistics](https://github-readme-stats.vercel.app/api?username=Hirrolot&show_icons=true&theme=onedark)](#)
-
 ## About me
 [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dhirrolot%26type%3Dpatrons&style=flat)](https://patreon.com/hirrolot)
 
-I'm a 16 y/o programmer primarily concerned about programming languages, paradigms, type theory, compilers/interpreters, and related stuff. I sometimes write articles at [Medium] and [Habr].
+I'm a 16 y/o enthusiast in programming languages, paradigms, type theory, compilers/interpreters, and related stuff. I sometimes write articles at [Medium] and [Habr].
 
 | Programming language | Skill |
 |----------|----------|
