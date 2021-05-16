@@ -5,7 +5,7 @@ I'm a 16 y/o enthusiast in programming language theory (PLT). Currently, I'm wor
 
 | Programming language | Skill |
 |----------|----------|
-| Rust | 9/10 |
+| Rust | 8/10 |
 | C (ANSI, 99, 11) | Yes |
 | Idris | 5/10 |
 | Java | 4/10 |
