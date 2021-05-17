@@ -1,7 +1,7 @@
 ## About me
 [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dhirrolot%26type%3Dpatrons&style=flat)](https://patreon.com/hirrolot)
 
-I'm a 16 y/o enthusiast in programming language theory (PLT). Currently, I'm working on preprocessor metaprogramming -- [Metalang99] and [Datatype99]. I sometimes write articles at [Medium] and [Habr].
+I'm a 16 y/o enthusiast in programming language theory (PLT). Currently, I'm working on preprocessor metaprogramming -- [Metalang99] and [Datatype99]. I sometimes write articles at [Medium], [dev.to], and [Habr].
 
 | Programming language | Skill |
 |----------|----------|
@@ -16,4 +16,5 @@ I'm a 16 y/o enthusiast in programming language theory (PLT). Currently, I'm wor
 [Datatype99]: https://github.com/Hirrolot/datatype99
 
 [Medium]: https://hirrolot.medium.com
+[dev.to]: https://dev.to/hirrolot/
 [Habr]: https://habr.com/en/users/hirrolot/
