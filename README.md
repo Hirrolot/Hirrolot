@@ -7,15 +7,6 @@
 
 I’m a 16 y/o software engineer, most known for my work on [teloxide] and preprocessor metaprogramming: [Metalang99], [Datatype99], and [Interface99]. I enjoy programming language theory and related stuff. Sometimes I write articles at [my blog] and [Habr].
 
-| Programming language | Skill |
-|----------|----------|
-| Rust | 8/10 |
-| C (ANSI, 99, 11) | Yes |
-| Idris | 5/10 |
-| Java | 4/10 |
-| Golang | 3/10 |
-| Python | 3/10 |
-
 [teloxide]: https://github.com/teloxide/teloxide
 
 [Metalang99]: https://github.com/Hirrolot/metalang99
